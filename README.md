@@ -1,6 +1,8 @@
-## <p align="center"> Hi there, My name is Anthony Tommaso :relieved: 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+My+name+is+Anthony+Tommaso" alt="Typing SVG" /></a> 
 
 ![](https://github.com/AntTomm/AntTomm/blob/main/GitHubGif.gif)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntTomm)](https://github.com/AntTomm/github-readme-stats)
 
