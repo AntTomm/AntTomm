@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github.com/AntTomm/blob/main/GitHubGif.gif)
+![](https://github.com/AntTomm/AntTomm/blob/main/GitHubGif.gif)
 
 
 <!--
