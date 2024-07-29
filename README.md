@@ -6,7 +6,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntTomm)](https://github.com/AntTomm/github-readme-stats)
-
+![Ant's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntTomm&show_icons=true&theme=github_dark_dimmed)
 <!--
 **AntTomm/AntTomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
