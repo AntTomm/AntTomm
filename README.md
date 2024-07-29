@@ -2,7 +2,7 @@
 
 ![](https://github.com/AntTomm/AntTomm/blob/main/GitHubGif.gif)
 
-<p align="center"> I'm a sophomore pursuing a Bachelor of the Arts in Computer Science with a minor in Mathematics at CUNY Hunter College for Macaulay Honors in New York :city_sunrise:. I'm an eager learner who is always open to new ideas and approaching new languages with a hunger for knowledge. I love to question if there's only one solution to a complex issue, or if there are a variety of efficient ways to solve something. Whether it's coding, debugging, case studies, and so much more, I enjoy the process of continuous learning and attacking the challenge. Apart from that, I go to the gym in my free time, and currently learning Unity and DSA for interview preparation! </p>
+<p align="center"> I'm a sophomore pursuing a Bachelor of the Arts in Computer Science :desktop_computer:	 with a minor in Mathematics at CUNY Hunter College for Macaulay Honors in New York :city_sunrise:. I'm an eager learner who is always open to new ideas and approaching new languages with a hunger for knowledge. I love to question if there's only one solution to a complex issue, or if there are a variety of efficient ways to solve something. Whether it's coding, debugging, case studies, and so much more, I enjoy the process of continuous learning and attacking the challenge. Apart from that, I go to the gym :weight_lifting_man: in my free time, and currently learning Unity and DSA for interview preparation! </p>
 
 
 
