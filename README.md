@@ -1,4 +1,4 @@
-## Hi there 👋
+## <p align="center"> Hi there, My name is Anthony Tommaso :relieved: 
 
 ![](https://github.com/AntTomm/AntTomm/blob/main/GitHubGif.gif)
 
