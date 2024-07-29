@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="right" alt="Coding" width="400" src="![gif](https://github.com/user-attachments/assets/415891ca-ad79-4a90-a103-1c5fc95d8e64)
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/415891ca-ad79-4a90-a103-1c5fc95d8e64)
 ">
 
 
