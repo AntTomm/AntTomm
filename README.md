@@ -5,10 +5,15 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntTomm)](https://github.com/AntTomm/github-readme-stats)
-<div style="display: flex; justify-content: flex-end;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntTomm&show_icons=true&theme=github_dark_dimmed" alt="Ant's GitHub stats" />
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/AntTomm/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntTomm" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/AntTomm/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=AntTomm&show_icons=true&theme=github_dark_dimmed" alt="Ant's GitHub stats" />
+  </a>
 </div>
+
 
 <!--
 **AntTomm/AntTomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
