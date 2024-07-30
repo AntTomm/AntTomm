@@ -23,8 +23,8 @@
   </a>
 </div>
 
-<h2>Connect with Me!</h2>
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+## Connect with Me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonytommaso/) [![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://anthonytommaso.me/)
 
 <!--
 **AntTomm/AntTomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
