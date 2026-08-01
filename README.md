@@ -14,21 +14,13 @@
 </div>
 <br>
 <br>
-<div style="display: flex; justify-content: center; gap: 100px;">
-  <a href="https://github.com/AntTomm/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntTomm" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/AntTomm/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AntTomm&show_icons=true&theme=github_dark_dimmed" alt="Ant's GitHub stats" />
-  </a>
-</div>
 
 ## Connect with Me!
 <div align="center">
   <a href="https://www.linkedin.com/in/anthonytommaso/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://anthonytommaso.me/">
+  <a href="https://atommaso.dev/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="My Website" />
   </a>
   <a href="mailto:atommaso05@gmail.com">
