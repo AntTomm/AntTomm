@@ -1,9 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hi+there%2C+My+name+is+Anthony+Tommaso!" alt="Typing SVG" /></a>
 ![](https://github.com/AntTomm/AntTomm/blob/main/GitHubGif.gif)
 
-<p align="center"> I'm a junior pursuing a Bachelor of the Arts in Computer Science :desktop_computer:	 with a minor in Mathematics at CUNY Hunter College for Macaulay Honors in New York :city_sunrise:. I'm an eager learner who is always open to new ideas and approaching new languages with a hunger for knowledge. I love to question if there's only one solution to a complex issue, or if there are a variety of efficient ways to solve something. Whether it's coding, debugging, case studies, and so much more, I enjoy the process of continuous learning and attacking the challenge. Apart from that, I go to the gym :weight_lifting_man: in my free time, and I am currently learning Unreal Engine 5, along with DSA for interview preparation!
-
-I am currently working on my C++ & Python skills! </p>
+<p align="center"> Hey, i'm anthony! Currently a software engineering intern @ etsy :).  </p>
 <h2 align = "center">Technology Stack</h2> 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
